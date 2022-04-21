@@ -10,3 +10,6 @@ nastépna zmiana 1:28 20/4/22
 
 dobra teraz jestew w nowym branchu nowa. 
 master 
+teraz jest nowy branch nowa  --- - 00:27
+
+kots master 00:51
