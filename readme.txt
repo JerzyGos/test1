@@ -15,4 +15,7 @@ teraz jest nowy branch nowa  --- - 00:27
 kots master 00:51
 22/04/ jestes teraz w masterze 
 Jurek dodal z githuba
+
 hi 
+conflict to be made
+
