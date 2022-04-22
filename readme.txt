@@ -19,4 +19,6 @@ Jurek dodal z githuba
 hi 
 conflict to be made
 robimy jeszcze jeden conflikt 
-3 kinflikt do zrobienia
+
+github 3 conflikt
+
