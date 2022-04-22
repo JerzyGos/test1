@@ -18,4 +18,4 @@ Jurek dodal z githuba
 
 hi 
 conflict to be made
-
+robimy jeszcze jeden conflikt 
